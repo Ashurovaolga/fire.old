@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+}
+ header{
+     color: rgb(255, 255, 255);
+     background-color: rgb(121, 50, 202);
+    border-radius: 15px ;
+ }
+  header img{
+      border-radius: 50px ;
+      padding: 3px ;
+  }
+
+  header a{
+      color: rgb(253, 182, 253);
+      text-decoration: none;
+  }
+
+  nav a{
+      color: rgb(71, 32, 178);
+      text-decoration: none;
+  }
+
+main h1{
+  color: rgb(59, 42, 100) ; 
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgb(195, 172, 248);
+  border-radius: 20px;
+  text-align: center;
+}
+
+footer{
+    background-color: rgb(148, 111, 216);
+}
+
+footer p{
+   color: rgb(76, 3, 124);
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 20px;
+}
+
+nav a{
+    background-color: rgb(201, 187, 219);
+    border-radius: 5px;
+    margin: 3px;
+}
+
+.fei{
+    background-color: rgb(190, 128, 240);
+    border-radius: 20px;
+}
+
+h2{
+    color: rgb(175, 27, 212);
+}
+
+.a{
+    text-decoration: none;
+    background-color: rgb(104, 119, 201);
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+.gena{
+    color: rgb(37, 3, 65);
+    font-size: 25px;
+    background-color: rgb(222, 174, 250);
+    border-radius: 20px;
+}
+
+.text{
+    background-color: rgb(233, 213, 245);
+    border-radius: 20px;
+    margin: 1px;
+    padding: 5px;
+}
